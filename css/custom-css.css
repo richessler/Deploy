@@ -1,0 +1,40 @@
+.in-block {
+	display:inline-block;
+}
+
+@media screen and (min-width:320px) {
+	.navbar-brand{
+		padding: 5px 10px ;
+	}
+}	
+
+.dev {
+	color: inherit;
+}
+
+.plug {
+	font-size: 1em;
+}
+
+.info {
+	text-align: justify;
+	font-size: 1.38em;
+}
+
+.intro-box{
+	margin: 10px 0 20px 0;
+}
+.spacer{
+	margin: 20px 0;
+}
+
+.wrapper{
+	min-height: 100%;
+  height: auto;
+  height: 100%;
+  margin: 20px auto;
+}
+
+html, body {
+	height: 100%;
+}
